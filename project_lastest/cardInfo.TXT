@@ -1,0 +1,61 @@
+Auden`Auden`Seal`1`7`0`1`Draw 1 Atk card`auden
+Dica`Dica`Seal`1`6`0`1`Draw 1 Def card`dica
+Natus`Natus`Seal`1`6`0`1`Increase 1 Cystal Mana`natus
+Kunigunde`Auden`Atk`1`0`1`2`Atk+3`010101
+V Slash`Auden`Atk`2`0`1`2`Atk+3 and discard 1 card to increase Atk by 2`010102
+Illumination`Auden`Atk`3`0`2`1`Atk+5 and the attack of this card is affect all opponent's Def card (Only do damage on the target)`010103
+Helmet of Archangel`Auden`Def`1`0`1`2`Def+3`020101
+Armor of Njord`Auden`Def`2`0`1`2`Def+4 and when this card was attacked, if oppoent's Atk lower than this card's Def, damage the opponent by the difference of Atk and Def`020102
+Solar Eclipse`Auden`Def`3`0`2`1`Def+5 and when was attacked, next turn Atk+5`020103
+Thunder`Auden`Magic`1`0`1`2`Choose 1 opponent's Def and damage it by your Atk`030101
+Mana Reduction`Auden`Magic`1`0`0`2`Decrease cost by 2 Mana Crystal`030102
+Excalibur`Auden`Magic`2`0`2`1`Double Atk in this turn`030103
+Unholy Book`Dica`Atk`2`0`1`2`Atk+2 and increase Atk by the lost HP`010201
+Reflection Moon`Dica`Atk`2`0`2`1`Atk+3 and show all opponent's Def card`010202
+Holy Word`Dica`Atk`3`0`1`1`Atk+4 and place 2 Def card in your field`010203
+Scared Necklace`Dica`Def`1`0`1`2`Def+2 and when this card was attack, all card in your field is double Def`020201
+Angel Statute`Dica`Def`2`0`1`1`Def+1 and dismiss all taken damage by the attack`020202
+St. John Church`Dica`Def`3`0`2`1`Def+5 and when this card was attack, if Def more than opponent's Atk, this card will not destroy and Def+1`020203
+Angel Mirror`Dica`Magic`1`0`1`2`Choose 1 opponent's Def card to show it`030201
+Jewel Heart`Dica`Magic`1`0`1`2`Increase HP by the most Def in the field`030202
+Equilibrium`Dica`Magic`3`0`3`1`In whole game, when your Def card was attack and guard success, damage the opponent by the difference of Atk and Def`030203
+Cursed Sword`Natus`Atk`1`0`1`2`Atk+1 and Incrase Atk by the amouth of card that use in this turn`010301
+X Slash`Natus`Atk`2`0`2`2`Atk+3 and can attack twice`010302
+Dead Force`Natus`Atk`3`0`2`1`Atk+4 and when this card attack, neglet the oppoenent's Def`010303
+Nibelung's Treasure`Natus`Def`1`0`1`2`Def+2 and when this card was attacked, Increase 2 Crystal Mana`020301
+Cursed Owl`Natus`Def`2`0`2`1`Def+3 and next turn, the opponen't can't attack`020302
+Paper Eater`Natus`Def`3`0`1`2`Def+4 and when this card was attacked, random 1 opponent's Def card`020303
+The Forbidden Mirror`Natus`Magic`1`0`1`1`Bring 2 copy card from opponent's hand to your hand`030301
+Mana Transpiration`Natus`Magic`2`0`0`2`Incrase 5 Cystal Mana`030302
+Hurricane`Natus`Magic`3`0`3`2`Bring all opponent's Def card to hand`030303
+Cursed Skull`Natural`Magic`1`0`1`3`The opponent can't Rank Up 1 turn`030001
+Pot of Life (Rare)`Natural`Magic`1`0`1`3`Heal 1 HP`030002
+Treasure Searching`Natural`Magic`1`0`1`2`Draw 1 Rank Up Card to your hand`030003
+Sealed Treasure Box`Natural`Magic`1`0`1`1`The opponent's can't draw card except the turn start phase by 1 turn`030004
+Pot of Greed`Natural`Magic`2`0`2`3`Draw 2 card`030005
+Pot of Life (Epic)`Natural`Magic`2`0`1`3`Heal 3 HP`030006
+Sleeping Kappa`Natural`Magic`2`0`1`1`In  next turn,the opponen't can't attack`030007
+Lightforce Sword`Natural`Magic`2`0`1`2`Discard 1 card from the opponent's hand`030008
+Magic Learning`Natural`Magic`2`0`1`2`Increase Atk by 2`030009
+Equivalent Exchange`Natural`Magic`3`0`0`3`Discard 1 card from your hand to increase 1 Crystal Mana`030010
+Library Arrangement`Natural`Magic`3`0`0`2`Discard 1 card from your hand to draw 1 card`030011
+Pot of Life (Unique)`Natural`Magic`3`0`2`1`Heal 6 HP`030012
+The Last Exploration`Natural`Magic`3`0`2`1`Draw 1 Atk,Magic and Def from the deck`030013
+Heavy Storm`Natural`Magic`3`0`3`1`Destroy all the opponent's Def card`030014
+Shock Bolt`Natural`Atk`1`0`1`2`Atk+2`010001
+Throw Bomb`Natural`Atk`1`0`1`3`Atk+3 and discard 1 card from your hand`010002
+Vampire's Desire`Natural`Atk`2`0`2`2`Atk+2 and when this card attack, heal your HP by the Atk`010003
+Lost Shield`Natural`Atk`2`0`2`2`Atk+3 and random 1 the opponent's Def card to destroy`010004
+Spiritual Trade`Natural`Atk`2`0`1`3`Atk+4 and the opponent's take damage by the difference of Atk and Def`010005
+The Death`Natural`Atk`3`0`2`2`Atk+7`010006
+Another World`Natural`Atk`3`0`2`2`Atk+1 and Increase the Atk by the target's Def`010007
+Wall of Dark`Natural`Def`1`0`1`3`Def+2`020001
+Card Destruction`Natural`Def`1`0`1`3`Def+1 and when this card was attacked, remove 5 card from your deck`020002
+Draining Shield`Natural`Def`1`0`2`2`Def+4 and when this card was attacked, heal 2 HP`020003
+Wall of Light`Natural`Def`2`0`1`3`Def+4`020004
+Valhalla Hall`Natural`Def`2`0`1`2`Def+7 and when this card was attacked, remove 1 card form your deck and your hand`020005
+Scrap-Iron Scarecrow`Natural`Def`2`0`2`2`Def+3 and this card can guard 2 attack`020006
+Harpie's Feather`Natural`Def`3`0`2`1`Def+6 and when this card was destroyed, destroy all the Def card in the field`020007
+The Birth`Natural`Def`3`0`2`2`Def+7`020008
+
+
